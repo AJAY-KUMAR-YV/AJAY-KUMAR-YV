@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Ajay Kumar YV
 
-### Senior Engineer | Full Stack Developer | Cloud & Data Engineering Enthusiast
+### Senior Engineer | Full Stack Developer 
 
 <a href="https://github.com/AJAY-KUMAR-YV">
   <img src="https://img.shields.io/badge/GitHub-AJAY--KUMAR--YV-181717?style=for-the-badge&logo=github" alt="GitHub"/>

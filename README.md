@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ajay-banner.svg" alt="Ajay Kumar YV banner" width="100%"/>
+<img src="./assets/ajay-banner.png" alt="Ajay Kumar YV Banner" width="100%">
 
 # Hi 👋, I'm Ajay Kumar YV
 

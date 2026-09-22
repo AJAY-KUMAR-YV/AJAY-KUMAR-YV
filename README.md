@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://chatgpt.com/s/p_6ab22a7fcac88191a0366bfbe6a9aadd" alt="Ajay Kumar YV banner" width="100%"/>
+<img src="./assets/ajay-banner.svg" alt="Ajay Kumar YV banner" width="100%"/>
 
 # Hi 👋, I'm Ajay Kumar YV
 

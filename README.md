@@ -13,6 +13,19 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
+<a href="a.aj.yv" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ajaykumaryv.engineer@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/8217386861" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+
 </div>
 
 ---

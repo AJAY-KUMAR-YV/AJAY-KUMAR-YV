@@ -131,7 +131,7 @@ Full-stack application with frontend and backend components.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AJAY-KUMAR-YV&show_icons=true&hide_border=true&rank_icon=github" alt="Ajay's GitHub stats"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AJAY-KUMAR-YV&show_icons=true&hide_border=true&rank_icon=github" alt="Ajay's GitHub stats"/> -->
 
 <br/>
 

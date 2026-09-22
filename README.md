@@ -122,8 +122,8 @@ Full-stack application with frontend and backend components.
 
 **Focus:** React • Node.js • TypeScript • REST APIs • Authentication • Payments • AWS integrations
 
-- [Frontend repository](YOUR_OPEN_CREDITS_FE_REPO)
-- [Backend repository](YOUR_OPEN_CREDITS_BE_REPO)
+- [Frontend repository](https://github.com/AJAY-KUMAR-YV/open-credits-fe)
+- [Backend repository](https://github.com/AJAY-KUMAR-YV/open-credits-be)
 
 ---
 

@@ -34,9 +34,8 @@
 
 - 💼 Senior Engineer working on enterprise software and web applications
 - 🚀 Full-stack development with frontend and backend integration
-- ⚡ Angular, React, Node.js and TypeScript
-- ☁️ Building my expertise in AWS and Cloud Engineering
-- 📊 Exploring Data Engineering and modern data platforms
+- ⚡ Angular, React, Java, Spring Boot, Node.js and TypeScript
+- ☁️ Building my expertise in AWS
 - 🏗️ Learning System Design and scalable architecture
 - 📚 I enjoy learning new technologies and turning them into practical solutions
 
@@ -59,7 +58,13 @@
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,hibernate,kafka,redis" alt="Node.js Express Java Spring Boot Hibernate Kafka Redis"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="MySQL PostgreSQL MongoDB Redis"/>
 </p>
 
 ### ☁️ Cloud & Tools

@@ -46,7 +46,7 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python" alt="JavaScript TypeScript Java Python"/>
+<img src="https://skillicons.dev/icons?i=js,ts,java" alt="JavaScript TypeScript Java"/>
 </p>
 
 ### 🎨 Frontend

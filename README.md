@@ -1,113 +1,164 @@
+<div align="center">
+
+<img src="./assets/ajay-banner.svg" alt="Ajay Kumar YV banner" width="100%"/>
+
 # Hi 👋, I'm Ajay Kumar YV
 
-### Senior Engineer | Full Stack Developer | Data Engineering Enthusiast
+### Senior Engineer | Full Stack Developer | Cloud & Data Engineering Enthusiast
 
-I'm a software engineer with experience building web applications, backend services,
-microservices and enterprise products.
+<a href="https://github.com/AJAY-KUMAR-YV">
+  <img src="https://img.shields.io/badge/GitHub-AJAY--KUMAR--YV-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
-🚀 Currently working with Angular, React, Node.js and TypeScript  
-☁️ Interested in AWS, Cloud Engineering and Data Engineering  
-💻 Passionate about building scalable and reliable applications  
-📚 Continuously learning System Design, AWS, Python and Data Engineering
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Senior Engineer at Comviva
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 3+ years of software development experience
-- 🌐 Experienced in Frontend & Backend Development
-- ⚡ Worked with Angular, React, Node.js and TypeScript
-- ☁️ Learning AWS & Cloud Engineering
-- 📊 Exploring Data Engineering and Big Data technologies
-- 🏗️ Interested in System Design and Distributed Systems
+- 💼 Senior Engineer working on enterprise software and web applications
+- 🚀 Full-stack development with frontend and backend integration
+- ⚡ Angular, React, Node.js and TypeScript
+- ☁️ Building my expertise in AWS and Cloud Engineering
+- 📊 Exploring Data Engineering and modern data platforms
+- 🏗️ Learning System Design and scalable architecture
+- 📚 I enjoy learning new technologies and turning them into practical solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python" alt="JavaScript TypeScript Java Python"/>
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,html,css" alt="Angular React HTML CSS"/>
+</p>
 
-### Backend
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express"/>
+</p>
 
-### Cloud & Data
+### ☁️ Cloud & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,jenkins" alt="AWS Docker Git GitHub GitLab Jenkins"/>
+</p>
 
 ---
 
 ## 🚀 What I Work On
 
-- Enterprise web applications
-- Full-stack development
-- REST API integration
-- Microfrontend applications
-- Backend services
-- Authentication & authorization
-- Payment and transaction-related applications
-- AWS & cloud technologies
-- Data engineering
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full Stack Development
+
+Building responsive web applications, frontend features, backend services and REST API integrations.
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud Engineering
+
+Learning and working toward scalable cloud-native solutions using AWS and related technologies.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Data Engineering
+
+Developing skills in Python, SQL, cloud data services, ETL and distributed data processing.
+
+</td>
+<td width="50%">
+
+### 🏗️ System Design
+
+Exploring APIs, microservices, scalability, reliability, caching and distributed systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects
 
-### Open Credits
+### 💳 Open Credits
 
-Full-stack application involving:
+Full-stack application with frontend and backend components.
 
-- React
-- Node.js
-- TypeScript
-- REST APIs
-- Authentication
-- Payments
-- AWS integrations
+**Focus:** React • Node.js • TypeScript • REST APIs • Authentication • Payments • AWS integrations
 
-🔗 [View Repository](https://github.com/AJAY-KUMAR-YV/open-credits-be)
+- [Frontend repository](YOUR_OPEN_CREDITS_FE_REPO)
+- [Backend repository](YOUR_OPEN_CREDITS_BE_REPO)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJAY-KUMAR-YV&show_icons=true&theme=tokyonight)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=AJAY-KUMAR-YV&show_icons=true&hide_border=true&rank_icon=github" alt="Ajay's GitHub stats"/>
 
-## 🔥 GitHub Streak
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AJAY-KUMAR-YV&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AJAY-KUMAR-YV&hide_border=true" alt="Ajay's GitHub streak"/>
 
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AJAY-KUMAR-YV)
+</div>
 
 ---
 
-### 💡 Quote
+## 🎯 Currently Learning
 
-> "Build. Learn. Improve. Repeat."
+```text
+AWS / Cloud Engineering
+        ↓
+System Design & Distributed Systems
+        ↓
+Python & Data Engineering
+        ↓
+Data Platforms & ETL
+        ↓
+Scalable Full-Stack Applications
+```
 
-⭐ Feel free to explore my repositories and connect with me!
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/AJAY-KUMAR-YV">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build • Learn • Improve • Repeat
+
+⭐ Thanks for visiting my profile!
+
+</div>

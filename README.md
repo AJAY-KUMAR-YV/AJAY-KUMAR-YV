@@ -73,6 +73,40 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,jenkins" alt="AWS Docker Git GitHub GitLab Jenkins"/>
 </p>
 
+
+---
+## 💼 Professional Experience
+
+### 🏢 Comviva — Senior Engineer
+**Software Engineer | Full Stack Developer**  
+📅 3+ Years Experience
+
+- 💻 Developing and maintaining enterprise-grade web applications and digital payment solutions.
+- 🚀 Working across frontend and backend development, including application features, API integration, and business workflows.
+- 🎨 Building responsive and scalable user interfaces using **Angular, React, JavaScript, and TypeScript**.
+- ⚙️ Developing backend services and integrations using **Java, Spring Boot, REST APIs, and Node.js**.
+- 🔐 Implementing application features involving authentication, authorization, security profiles, and access management.
+- 💳 Contributing to **MobiquityPay** and enterprise payment/transaction applications.
+- 🌐 Worked on **Consumer Portal** development, including frontend features and backend API integration.
+- 🗄️ Working with **MySQL, PostgreSQL, and MongoDB** for application and data requirements.
+- ☁️ Exposure to **AWS, Linux, Jenkins, Git, GitHub, and CI/CD workflows**.
+- 🔧 Troubleshooting production and deployment issues involving **Nginx, APIs, proxies, CORS, SSL, and application servers**.
+- 🤝 Collaborating with cross-functional teams using **Jira, Git, and Agile development practices**.
+- 📈 Continuously improving skills in **System Design, scalable architectures, cloud technologies, and backend engineering**.
+
+---
+
+## 📌 Featured Projects
+
+### 💳 Open Credits
+
+Full-stack application with frontend and backend components.
+
+**Focus:** React • Node.js • TypeScript • REST APIs • Authentication • Payments • AWS integrations
+
+- [Frontend repository](https://github.com/AJAY-KUMAR-YV/open-credits-fe)
+- [Backend repository](https://github.com/AJAY-KUMAR-YV/open-credits-be)
+
 ---
 
 ## 🚀 What I Work On
@@ -112,40 +146,9 @@ Exploring APIs, microservices, scalability, reliability, caching and distributed
 </tr>
 </table>
 
----
-## 💼 Professional Experience
-
-### 🏢 Comviva — Senior Engineer
-**Software Engineer | Full Stack Developer**  
-📅 3+ Years Experience
-
-- 💻 Developing and maintaining enterprise-grade web applications and digital payment solutions.
-- 🚀 Working across frontend and backend development, including application features, API integration, and business workflows.
-- 🎨 Building responsive and scalable user interfaces using **Angular, React, JavaScript, and TypeScript**.
-- ⚙️ Developing backend services and integrations using **Java, Spring Boot, REST APIs, and Node.js**.
-- 🔐 Implementing application features involving authentication, authorization, security profiles, and access management.
-- 💳 Contributing to **MobiquityPay** and enterprise payment/transaction applications.
-- 🌐 Worked on **Consumer Portal** development, including frontend features and backend API integration.
-- 🗄️ Working with **MySQL, PostgreSQL, and MongoDB** for application and data requirements.
-- ☁️ Exposure to **AWS, Linux, Jenkins, Git, GitHub, and CI/CD workflows**.
-- 🔧 Troubleshooting production and deployment issues involving **Nginx, APIs, proxies, CORS, SSL, and application servers**.
-- 🤝 Collaborating with cross-functional teams using **Jira, Git, and Agile development practices**.
-- 📈 Continuously improving skills in **System Design, scalable architectures, cloud technologies, and backend engineering**.
 
 ---
 
-## 📌 Featured Projects
-
-### 💳 Open Credits
-
-Full-stack application with frontend and backend components.
-
-**Focus:** React • Node.js • TypeScript • REST APIs • Authentication • Payments • AWS integrations
-
-- [Frontend repository](https://github.com/AJAY-KUMAR-YV/open-credits-fe)
-- [Backend repository](https://github.com/AJAY-KUMAR-YV/open-credits-be)
-
----
 
 ## 📊 GitHub
 

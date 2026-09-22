@@ -58,7 +58,7 @@
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,hibernate,kafka,redis" alt="Node.js Express Java Spring Boot Hibernate Kafka Redis"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,kafka,redis" alt="Node.js Express Java Spring Boot Hibernate Kafka Redis"/>
 </p>
 
 ### 🗄️ Databases

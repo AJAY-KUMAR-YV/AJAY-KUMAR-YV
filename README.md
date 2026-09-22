@@ -9,7 +9,7 @@
 <a href="https://github.com/AJAY-KUMAR-YV">
   <img src="https://img.shields.io/badge/GitHub-AJAY--KUMAR--YV-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ajaytech/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
